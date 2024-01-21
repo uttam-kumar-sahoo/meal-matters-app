@@ -1,6 +1,6 @@
 # Meal-Matters-App
 
-<p align="center"><img src="" alt="logo"></p>
+<p align="center"><img src="https://github.com/uttam-kumar-sahoo/meal-matters-app/blob/main/img/a.png" alt="logo"></p>
 
 
 ## Features
