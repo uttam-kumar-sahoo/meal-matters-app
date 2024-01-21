@@ -1,4 +1,7 @@
-# meal-matters-app
+# Meal-Matters-App
+
+<p align="center"><img src="" alt="logo"></p>
+
 
 ## Features
 
