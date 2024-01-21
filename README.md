@@ -22,3 +22,4 @@
 - Php, Mysql
 - Firebase (firestore, authentication, storage, analytics)
 - Googlemap API
+- Gpay API for payment
